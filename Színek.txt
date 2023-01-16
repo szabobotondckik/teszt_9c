@@ -1,3 +1,6 @@
 Piros
 Kék
 Lila
+Fekete
+Fehér
+Zöld
